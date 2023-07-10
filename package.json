@@ -1,0 +1,29 @@
+{
+  "name": "nodejs_relearn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TranB2014798/NodeJS_New.git"
+  },
+  "keywords": [
+    "NodeJs"
+  ],
+  "author": "TranTran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TranB2014798/NodeJS_New/issues"
+  },
+  "homepage": "https://github.com/TranB2014798/NodeJS_New#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
